@@ -1,0 +1,8 @@
+Uczen: 
+id - 12
+imie - Nike
+nazwisko - Willson
+telefon - 98333456
+email - asdf@gmail
+haslo - qwertyas
+charakterystyka: - Dobry

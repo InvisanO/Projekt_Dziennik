@@ -1,0 +1,5 @@
+Przedmiot: Matematyka 
+Nauczyciel: Kenny Nilson 
+Sala: 101 
+Godziny: 8:00 - 10:00 
+Dni: Poniedzialek, Piatek 

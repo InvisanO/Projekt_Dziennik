@@ -1,0 +1,8 @@
+Nauczyciel: 
+id - 34
+imie - John
+nazwisko - Bill
+telefon - 99876443
+email - asddfsgfdg@gmail
+haslo - asdf3214
+przedmiot - Matematyka
